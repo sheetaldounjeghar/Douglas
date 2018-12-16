@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46756" started-at="2018-12-16T23:45:53Z" finished-at="2018-12-16T23:46:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46756" started-at="2018-12-16T23:45:53Z" finished-at="2018-12-16T23:46:40Z">
+      <class name="AutomationFramework.Productclass">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AutomationFramework.Productclass@5c7fa833]" name="beforeTest" is-config="true" duration-ms="8224" started-at="2018-12-16T23:45:53Z" finished-at="2018-12-16T23:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:AutomationFramework.Productclass@5c7fa833]" name="startTest" duration-ms="36275" started-at="2018-12-16T23:46:01Z" finished-at="2018-12-16T23:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:AutomationFramework.Productclass@5c7fa833]" name="afterTest" is-config="true" duration-ms="2223" started-at="2018-12-16T23:46:38Z" finished-at="2018-12-16T23:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- AutomationFramework.Productclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
