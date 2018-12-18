@@ -7,5 +7,5 @@ As the page structure for other products are different and couldn't match the xp
 
 Things to makesure before running the code:
 
-1. Make sure all the libraries are set for Selenium and Testing.
+1. Make sure all the libraries are set for Selenium and TestNG.
 2. The Chromdriver path is set according to the path written in code.
